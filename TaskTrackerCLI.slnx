@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TaskTrackerCLI/TaskTrackerCLI.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
